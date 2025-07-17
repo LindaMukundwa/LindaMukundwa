@@ -67,12 +67,12 @@ hobbies: ["Piano", "Photography"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<div align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindamukundwa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+
 <hr width="60%" >
-<h3 align="left">Connect with me (if this is a serious inquiry):</h3>
+<h3 align="left">Connect with me (for any serious inquiries):</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/linda-mukundwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linda-mukundwa" height="30" width="40" /></a>
 </p>
