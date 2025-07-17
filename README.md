@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey,%20everyone!%20%20I%20am%20Linda%20🥭&fontSize=50&reversal=true"/>
 </p>
 
-<img align-items="center" alt="universe" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ245Z3NwZDhveHRwYnY0OGZ1dGdodDB5Zmh5OGhnODRnYnlrM2ZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3c614V12UA82q1vG/giphy.gif">
+<img alt="universe" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ245Z3NwZDhveHRwYnY0OGZ1dGdodDB5Zmh5OGhnODRnYnlrM2ZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3c614V12UA82q1vG/giphy.gif">
 
 <h1 align="center">Here's a little bit about me: </h1>
 
@@ -64,10 +64,9 @@ hobbies: ["Piano", "Photography"]
 </p>
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/lindamukundwa/lindamukundwa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-(https://github.com/lindamukundwa/lindamukundwa/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
