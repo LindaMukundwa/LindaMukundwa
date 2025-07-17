@@ -42,8 +42,9 @@ technical background:
   ] 
 hobbies: ["Piano", "Photography"]
 ```
-<img align="center" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-
+<p align="center">
+	<img alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
