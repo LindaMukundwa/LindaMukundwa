@@ -18,8 +18,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey,%20everyone!%20%20I%20am%20Linda%20🥭&fontSize=50&reversal=true"/>
 </p>
 
-<img alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-
 <h1 align="center">Here's a little bit about me: </h1>
 
 ```yaml
@@ -44,6 +42,8 @@ technical background:
   ] 
 hobbies: ["Piano", "Photography"]
 ```
+<img align="center" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
