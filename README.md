@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone, my name is Linda!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey,%20everyone!%20🥭&fontSize=70&reversal=true"/>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-
 <h2 align="center">Here's a little bit about me: </h2>
+
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ```yaml
 name: Linda Mukundwa
