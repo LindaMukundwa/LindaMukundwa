@@ -18,9 +18,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey,%20everyone!%20%20I%20am%20Linda%20🥭&fontSize=50&reversal=true"/>
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZndmkyYTM2d2hvajZjMHJncmJkeXQ0NGZmcHpsdGc3ZXY2NXlrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IzJDsE4jMPxr2M/giphy.gif"/>
-</p>
+<img alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h1 align="center">Here's a little bit about me: </h1>
 
