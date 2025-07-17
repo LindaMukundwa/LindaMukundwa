@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey,%20everyone!%20%20I%20am%20Linda%20🥭&fontSize=50&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,%20Everyone!%20My%20name%20is%20Linda🥭&fontSize=40"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/LindaMukundwa/LindaMukundwa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1 align="center">Here's a little bit about me: </h1>
+<h1 align="center"> 👾 &nbsp;Here's a little bit about me: </h1>
 
 ```yaml
 name: Linda Mukundwa
@@ -45,8 +48,8 @@ hobbies: ["Piano", "Photography"]
 <p align="center">
 	<img alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc1ZHB0YXhxM21oajZocW92d3V0ZGsxN3VtZWJ5cWM1ZzU4cmVyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -64,12 +67,9 @@ hobbies: ["Piano", "Photography"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<p align = "center">
-	<img src = "https://github.com/LindaMukundwa/LindaMukundwa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindamukundwa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr width="60%" >
 <h3 align="left">Connect with me (if this is a serious inquiry):</h3>
